@@ -54,7 +54,7 @@ Graduando em **Engenharia de Software** — Faculdade Donaduzzi.
 
 <div align="center">
 
-<img height="160em" src="https://github-stats-extended.vercel.app/api?username=LucasLeiteLessa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasLeiteLessa&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160em" src="https://github-readme-stats-vert-delta-72.vercel.app/api?username=LucasLeiteLessa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats-vert-delta-72.vercel.app/api/top-langs/?username=LucasLeiteLessa&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
