@@ -2,7 +2,7 @@
 
 # Lucas Lessa
 
-Backend & Industrial Automation Developer
+FullStack & Industrial Automation Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-leite-lessa/)
 [![Email](https://img.shields.io/badge/lucasleitelessa@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasleitelessa@gmail.com)
@@ -11,10 +11,11 @@ Backend & Industrial Automation Developer
 
 ---
 
-Desenvolvedor focado em backend e automação industrial. Trabalho em cenários reais de produção na **Eletrocontrol - Engenharia e Automação**, onde performance e confiabilidade não são opcionais.
+Desenvolvedor FullStack. 
+Trabalho em cenários reais de produção na **Eletrocontrol - Engenharia e Automação**
 
 Graduando em **Engenharia de Software** — Faculdade Donaduzzi.
-
+3/8
 ---
 
 ## Stack
