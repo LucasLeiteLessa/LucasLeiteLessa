@@ -2,7 +2,7 @@
 
 # Lucas Lessa
 
-FullStack & Industrial Automation Developer
+FullStack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-leite-lessa/)
 [![Email](https://img.shields.io/badge/lucasleitelessa@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasleitelessa@gmail.com)
